@@ -1,0 +1,7 @@
+{
+  "name": "flvr-landing-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
